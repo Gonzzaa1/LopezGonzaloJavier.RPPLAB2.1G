@@ -1,0 +1,57 @@
+# depslib dependency file v1.0
+1659654660 source:c:\users\gonza\desktop\programacion 1\recu.p2.lab.1g\linkedlist.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LinkedList.h"
+
+1659654565 c:\users\gonza\desktop\programacion 1\recu.p2.lab.1g\linkedlist.h
+
+1659657318 source:c:\users\gonza\desktop\programacion 1\recu.p2.lab.1g\controller.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LinkedList.h"
+	"Controller.h"
+	"RedSocial.h"
+	"Parser.h"
+
+1659658463 c:\users\gonza\desktop\programacion 1\recu.p2.lab.1g\controller.h
+
+1659652046 source:c:\users\gonza\desktop\programacion 1\recu.p2.lab.1g\menus.c
+	<stdio.h>
+	<stdlib.h>
+	"Menus.h"
+
+1659651670 c:\users\gonza\desktop\programacion 1\recu.p2.lab.1g\menus.h
+
+1659648025 source:c:\users\gonza\desktop\programacion 1\recu.p2.lab.1g\myfunctions.c
+
+1659657958 source:c:\users\gonza\desktop\programacion 1\recu.p2.lab.1g\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	"LinkedList.h"
+	"RedSocial.h"
+	"Menus.h"
+	"Controller.h"
+
+1659658469 c:\users\gonza\desktop\programacion 1\recu.p2.lab.1g\redsocial.h
+
+1659652169 source:c:\users\gonza\desktop\programacion 1\recu.p2.lab.1g\parser.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"Parser.h"
+	"RedSocial.h"
+
+1659651205 c:\users\gonza\desktop\programacion 1\recu.p2.lab.1g\parser.h
+
+1659657937 source:c:\users\gonza\desktop\programacion 1\recu.p2.lab.1g\redsocial.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	"RedSocial.h"
+	"LinkedList.h"
+
