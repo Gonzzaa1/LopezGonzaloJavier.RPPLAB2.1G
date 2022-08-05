@@ -127,16 +127,12 @@ int controller_Popular(LinkedList* this)
         for(int i = 0; i < tam; i++)
         {
             auxPost = (ePost*)ll_get(this, i);
-        }
-        for(int i = 0; i < tam; i++)
-        {
             if(flag || auxPost->likes > auxPost->likes)
             {
                 popular =  auxPost->likes;
                 strcpy(user,auxPost->user);
                 flag = 0;
             }
-
         }
         printf("user  %s  tiene el post con mas likes %d\n\n",user, popular);
     }
