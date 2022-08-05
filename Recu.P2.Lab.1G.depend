@@ -7,7 +7,7 @@
 
 1659654565 c:\users\gonza\desktop\programacion 1\recu.p2.lab.1g\linkedlist.h
 
-1659657318 source:c:\users\gonza\desktop\programacion 1\recu.p2.lab.1g\controller.c
+1659659954 source:c:\users\gonza\desktop\programacion 1\recu.p2.lab.1g\controller.c
 	<stdio.h>
 	<stdlib.h>
 	<string.h>
@@ -16,7 +16,7 @@
 	"RedSocial.h"
 	"Parser.h"
 
-1659658463 c:\users\gonza\desktop\programacion 1\recu.p2.lab.1g\controller.h
+1659659352 c:\users\gonza\desktop\programacion 1\recu.p2.lab.1g\controller.h
 
 1659652046 source:c:\users\gonza\desktop\programacion 1\recu.p2.lab.1g\menus.c
 	<stdio.h>
@@ -27,7 +27,7 @@
 
 1659648025 source:c:\users\gonza\desktop\programacion 1\recu.p2.lab.1g\myfunctions.c
 
-1659657958 source:c:\users\gonza\desktop\programacion 1\recu.p2.lab.1g\main.c
+1659659362 source:c:\users\gonza\desktop\programacion 1\recu.p2.lab.1g\main.c
 	<stdio.h>
 	<stdlib.h>
 	<time.h>
@@ -36,7 +36,7 @@
 	"Menus.h"
 	"Controller.h"
 
-1659658469 c:\users\gonza\desktop\programacion 1\recu.p2.lab.1g\redsocial.h
+1659659356 c:\users\gonza\desktop\programacion 1\recu.p2.lab.1g\redsocial.h
 
 1659652169 source:c:\users\gonza\desktop\programacion 1\recu.p2.lab.1g\parser.c
 	<stdio.h>
@@ -47,7 +47,7 @@
 
 1659651205 c:\users\gonza\desktop\programacion 1\recu.p2.lab.1g\parser.h
 
-1659657937 source:c:\users\gonza\desktop\programacion 1\recu.p2.lab.1g\redsocial.c
+1659659357 source:c:\users\gonza\desktop\programacion 1\recu.p2.lab.1g\redsocial.c
 	<stdio.h>
 	<stdlib.h>
 	<ctype.h>

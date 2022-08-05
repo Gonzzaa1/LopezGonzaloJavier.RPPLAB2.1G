@@ -7,3 +7,4 @@ int controller_loadFromText(char* path , LinkedList* pArrayList);
 int controller_saveAsText(char* path , LinkedList* pArrayList);
 int controller_listPost(LinkedList* pArrayList);
 int controller_mapStats(LinkedList* pArrayList);
+int controller_Popular(LinkedList* this);

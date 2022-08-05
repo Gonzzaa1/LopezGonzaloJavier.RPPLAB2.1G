@@ -42,6 +42,6 @@ int Post_filterDislikes(void* post);
 
 int Post_SortFollowers(void* a, void*b);
 
-int Post_Popular(ePost* this);
+
 
 

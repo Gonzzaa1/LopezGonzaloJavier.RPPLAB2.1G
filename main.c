@@ -71,6 +71,8 @@ int main()
                 system("pause");
             break;
             case 7:
+                controller_Popular(listPost);
+                system("pause");
             break;
             case 8:
                 salir = 's';
